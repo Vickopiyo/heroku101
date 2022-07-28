@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&family=Sansita&display=swap');
+*{
+    margin:0;
+    box-sizing: content-box;
+}
+body{
+font-family: "Merienda One",sans-serif;
+background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+}
+.links{
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+
+    
+    
+}
+.navbar{
+    width: 60%;
+    margin:0 auto;
+}
+li{
+    padding: 20px;
+}
